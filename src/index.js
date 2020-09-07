@@ -80,7 +80,7 @@ const conf = {
 
 
 try {
-	main('https://31-beta-feature.tokopedia.com', opts, conf, 5);
+	main('https://www.tokopedia.com', opts, conf, 5);
 } catch (error) {
 	console.log('[benchmark] top level error: ', error);
 }
